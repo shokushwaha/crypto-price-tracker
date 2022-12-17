@@ -1,0 +1,16 @@
+h1 {
+    color: aqua;
+}
+
+h1>span {
+    color: yellow;
+    font-size: 40px;
+}
+
+h3 {
+    color: yellow;
+}
+
+h3>span {
+    color: aquamarine;
+}
